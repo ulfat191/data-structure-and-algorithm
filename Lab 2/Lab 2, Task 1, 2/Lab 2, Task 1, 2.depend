@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1595608247 source:h:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\codeblocks\lab 2, task 1, 2\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+
+1595608247 h:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\codeblocks\lab 2, task 1, 2\dynarr.h
+
+1595608323 source:h:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\codeblocks\lab 2, task 1, 2\main.cpp
+	<iostream>
+	"dynarr.h"
+
