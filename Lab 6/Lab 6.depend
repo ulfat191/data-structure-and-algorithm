@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1597325385 source:h:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\codeblocks\lab 6\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1597325385 h:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\codeblocks\lab 6\stacktype.h
+
+1597328956 source:h:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\codeblocks\lab 6\main.cpp
+	<iostream>
+	"stacktype.cpp"
+
+1597325385 h:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\codeblocks\lab 6\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1597330586 source:i:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 6\lab 6 tasks\main.cpp
+	<iostream>
+	"stacktype.cpp"
+
+1597325385 i:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 6\lab 6 tasks\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1597325385 i:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 6\lab 6 tasks\stacktype.h
+
+1597325385 source:i:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 6\lab 6 tasks\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1598160066 source:d:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 6\lab 6 tasks\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1598160066 d:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 6\lab 6 tasks\stacktype.h
+
+1598164846 source:d:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 6\lab 6 tasks\main.cpp
+	<iostream>
+	<string.h>
+	"stacktype.cpp"
+
+1598160066 d:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 6\lab 6 tasks\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1598160066 source:d:\north south university\university year 2\5th semester\cse225l - mkn1 - md. mokarram\lab 6\lab 6 tasks\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1598160066 d:\north south university\university year 2\5th semester\cse225l - mkn1 - md. mokarram\lab 6\lab 6 tasks\stacktype.h
+
