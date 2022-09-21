@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1598623534 source:d:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 7\lab 8 (stacked linked list)\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1598623770 d:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 7\lab 8 (stacked linked list)\stacktype.h
+
+1598624114 source:d:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 7\lab 8 (stacked linked list)\main.cpp
+	<iostream>
+	"stacktype.cpp"
+
+1598623779 d:\north south university\university year 2\5th semester\cse225l - mnk1 - md mokarram\lab 7\lab 8 (stacked linked list)\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
